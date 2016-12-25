@@ -1,1 +1,2 @@
-# cydns2dnsmasq
+# cydns2
+dnsmasq
